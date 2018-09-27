@@ -1,6 +1,5 @@
 /**
  * Java Convert Date to String Example
- * Created by codebind.com .
  */
 
 import java.text.DateFormat;
